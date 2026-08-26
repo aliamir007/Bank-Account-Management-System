@@ -859,5 +859,4 @@ Real financial systems require significantly stronger security controls, complia
 # License
 
 This project is licensed under the MIT License.
-#   B a n k - A c c o u n t - M a n a g e m e n t - S y s t e m  
- 
+#
